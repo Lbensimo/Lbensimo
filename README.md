@@ -12,14 +12,8 @@ Hi there! 👋<br>I am an enthusiastic computer science student with a strong in
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lbensimo&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lbensimo&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Lbensimo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lbensimo&icon=9&color=11)](https://visitcount.itsvg.in)
